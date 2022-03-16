@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=bigbrozer&show_icons=true&hide_title=true&theme=cobalt" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigbrozer&hide_title=true&hide=Perl&langs_count=3&theme=radical" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigbrozer&hide_title=true&hide=Perl&langs_count=3&theme=radical" /> -->
 </p>
 
 <p>
