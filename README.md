@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/bigbrozer" target="_blank"><img src="https://img.shields.io/badge/linkedin-👨‍💼-blue?style=for-the-badge&logo=linkedin" alt="linkedin-profile" /></a>&nbsp;
-  <a href="https://bigbrozer.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-🎮-pink?style=for-the-badge&logo=itch.io" alt="linkedin-profile" /></a>
+  <a href="https://www.linkedin.com/in/bigbrozer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-profile" /></a>&nbsp;
+  <a href="https://bigbrozer.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch-profile" /></a>
+  <a href="https://github.com/bigbrozer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-profile" /></a>
 </p>
 
 </div>
