@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 </p>
 
 </div>
+
+### 💡 Highlighted
+
+- 👉 Want to discover [awesome stuffs](https://bigbrozer.github.io/awesomeness/) ?
+- 🔭 I’m currently cooking a self-hosted cloud solution for home (👋 [link-webcreations](https://github.com/link-webcreations)).
+- 🕹 Don't know what to do ? Play [Bugs Out](https://bigbrozer.itch.io/bugs-out).
