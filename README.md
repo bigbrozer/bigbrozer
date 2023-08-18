@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bigbrozer&count_private=true&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bigbrozer&count_private=true&hide_rank=true&show_icons=true&hide_title=true&theme=tokyonight&show=reviews,prs_merged" />
 </p>
 
 <p>
@@ -27,7 +27,16 @@ Here are some ideas to get you started:
 
 </div>
 
-### 💡 Highlighted
+### 🔥 Spotlight
+
+<a href="https://github.com/la-chevre-grisette/infra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=la-chevre-grisette&repo=infra&show_owner=true" />
+</a>
+<a href="https://github.com/bigbrozer/publii-luci-theme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=publii-luci-theme&show_owner=true" />
+</a>
+
+### 📰 News
 
 - 👉 Want to discover [awesome stuffs](https://bigbrozer.github.io/awesomeness/) ?
 - 🔭 I’m currently cooking a self-hosted cloud solution for home (👋 [link-webcreations](https://github.com/link-webcreations)).
