@@ -1,0 +1,26 @@
+# https://github.com/yoshi389111/github-profile-3d-contrib
+name: "GitHub-Profile-3D"
+
+on:
+  schedule:
+    # At 01:00 UTC on Monday
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: "ubuntu-latest"
+    name: "generate-github-profile-3d-contrib"
+    steps:
+      - uses: "actions/checkout@v3"
+      - uses: "yoshi389111/github-profile-3d-contrib@0.7.1"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: "Commit & Push"
+        run: |
+          git config user.name bigbrozer
+          git config user.email bigbrozer@users.noreply.github.com
+          git add profile-3d-contrib/
+          git commit -m "chore: auto-generated 3d profile images"
+          git push
