@@ -11,15 +11,15 @@
 
 <div align="center" >
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=bigbrozer&count_private=true&hide_rank=false&show_icons=true&hide_title=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bigbrozer&count_private=true&hide_rank=false&show_icons=true&hide_title=true&theme=buefy" />
-    <img alt="github profile contributions chart" src="https://github-readme-stats.vercel.app/api?username=bigbrozer&count_private=true&hide_rank=false&show_icons=true&hide_title=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/bigbrozer/bigbrozer/main/profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bigbrozer/bigbrozer/main/profile-3d-contrib/profile-season-animate.svg" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/bigbrozer/bigbrozer/main/profile-3d-contrib/profile-season-animate.svg" width="500"/>
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=bigbrozer&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bigbrozer&theme=buefy" />
-    <img alt="github profile contributions chart" src="https://github-readme-streak-stats.herokuapp.com/?user=bigbrozer&theme=tokyonight" />
+    <img alt="github profile contributions chart" src="https://github-readme-streak-stats.herokuapp.com/?user=bigbrozer&theme=buefy" />
   </picture>
 </div>
 
