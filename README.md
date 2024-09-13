@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/la-chevre-grisette/infra">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=comfyui-lab&show_owner=false" />
+    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=comfyui-lab&show_owner=false" />
   </a>
   <a href="https://github.com/la-chevre-grisette/infra">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=la-chevre-grisette&repo=infra&show_owner=true" />
+    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=la-chevre-grisette&repo=infra&show_owner=true" />
   </a>
   <a href="https://github.com/bigbrozer/publii-luci-theme">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=publii-luci-theme&show_owner=false" />
+    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=publii-luci-theme&show_owner=false" />
   </a>
 </p>
 
