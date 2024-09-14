@@ -13,6 +13,9 @@
     <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=comfyui-lab&show_owner=false" />
   </a>
   <a href="https://github.com/la-chevre-grisette/infra">
+    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nventiveux&repo=docker-ttrss&show_owner=false" />
+  </a>
+  <a href="https://github.com/la-chevre-grisette/infra">
     <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=la-chevre-grisette&repo=infra&show_owner=true" />
   </a>
   <a href="https://github.com/bigbrozer/publii-luci-theme">
