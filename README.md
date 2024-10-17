@@ -9,7 +9,7 @@
 ### 🔥 Spotlight
 
 <p align="center">
-  <a href="https://github.com/la-chevre-grisette/infra">
+  <a href="https://github.com/bigbrozer/comfyui-lab">
     <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=comfyui-lab&show_owner=false" />
   </a>
   <a href="https://github.com/la-chevre-grisette/infra">
@@ -26,7 +26,7 @@
 ### 📰 News
 
 - 👉 Want to discover [awesome stuffs](https://bigbrozer.github.io/awesomeness/) ?
-- 🔭 I’m currently cooking a self-hosted cloud solution for home (👋 [link-webcreations](https://github.com/link-webcreations)).
+- 🔭 I’m currently learning Rust 🦀, first project is [linkwarden-aitiquette](https://github.com/bigbrozer/linkwarden-aitiquette).
 - 🕹 Don't know what to do ? Play [Bugs Out](https://bigbrozer.itch.io/bugs-out) ([➔ Sources](https://github.com/bigbrozer/BugsOut-GameOff2021)).
 
 <div align="center" >
