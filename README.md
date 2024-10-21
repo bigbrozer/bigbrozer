@@ -10,16 +10,16 @@
 
 <p align="center">
   <a href="https://github.com/bigbrozer/linkwarden-aitiquette">
-    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=linkwarden-aitiquette&show_owner=false" />
+    <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=linkwarden-aitiquette&show_owner=false" />
   </a>
   <a href="https://github.com/nventiveux/docker-ttrss">
-    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nventiveux&repo=docker-ttrss&show_owner=false" />
+    <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nventiveux&repo=docker-ttrss&show_owner=false" />
   </a>
   <a href="https://github.com/la-chevre-grisette/infra">
-    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=la-chevre-grisette&repo=infra&show_owner=true" />
+    <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=la-chevre-grisette&repo=infra&show_owner=true" />
   </a>
   <a href="https://github.com/bigbrozer/publii-luci-theme">
-    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=publii-luci-theme&show_owner=false" />
+    <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=publii-luci-theme&show_owner=false" />
   </a>
 </p>
 
