@@ -12,9 +12,6 @@
   <a href="https://github.com/bigbrozer/linkwarden-aitiquette">
     <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=linkwarden-aitiquette&show_owner=false" />
   </a>
-  <a href="https://github.com/bigbrozer/comfyui-lab">
-    <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=comfyui-lab&show_owner=false" />
-  </a>
   <a href="https://github.com/nventiveux/docker-ttrss">
     <img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nventiveux&repo=docker-ttrss&show_owner=false" />
   </a>
