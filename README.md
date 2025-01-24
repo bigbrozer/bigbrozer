@@ -9,6 +9,12 @@
 ### 🔥 Spotlight
 
 <p align="center">
+  <a href="https://github.com/bigbrozer/publii-luci-theme">
+    <img width="400px" height="120px" align="center" src="https://raw.githubusercontent.com/bigbrozer/BugsOut-GameOff2021/main/.readme/itch_widget.png" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/bigbrozer/linkwarden-aitiquette">
     <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=linkwarden-aitiquette&show_owner=false" />
   </a>
