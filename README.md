@@ -9,7 +9,7 @@
 ### 🔥 Spotlight
 
 <p align="center">
-  <a href="https://github.com/bigbrozer/publii-luci-theme">
+  <a href="https://itch.io/embed-upload/4859397?color=000000">
     <img width="400px" height="120px" align="center" src="https://raw.githubusercontent.com/bigbrozer/BugsOut-GameOff2021/main/.readme/itch_widget.png" />
   </a>
 </p>
