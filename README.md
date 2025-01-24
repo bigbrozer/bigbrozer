@@ -31,8 +31,8 @@
 
 <div align="center" >
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=bigbrozer&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bigbrozer&theme=buefy" />
-    <img alt="github profile contributions chart" src="https://github-readme-streak-stats.herokuapp.com/?user=bigbrozer&theme=buefy" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=bigbrozer&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=bigbrozer&theme=buefy" />
+    <img alt="github profile contributions chart" src="https://streak-stats.demolab.com/?user=bigbrozer&theme=buefy" />
   </picture>
 </div>
