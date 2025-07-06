@@ -14,10 +14,16 @@
   </a>
 </p>
 
+<div align="center" >
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=bigbrozer&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=bigbrozer&theme=buefy" />
+    <img alt="github profile contributions chart" src="https://streak-stats.demolab.com/?user=bigbrozer&theme=buefy" />
+  </picture>
+</div>
+
+<!--
 <p align="center">
-  <a href="https://github.com/bigbrozer/linkwarden-aitiquette">
-    <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=linkwarden-aitiquette&show_owner=false" />
-  </a>
   <a href="https://github.com/nventiveux/docker-ttrss">
     <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nventiveux&repo=docker-ttrss&show_owner=false" />
   </a>
@@ -28,17 +34,10 @@
     <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=publii-luci-theme&show_owner=false" />
   </a>
 </p>
+-->
 
 ### 📰 News
 
 - 👉 Want to discover [awesome stuffs](https://bigbrozer.github.io/awesomeness/) ?
-- 🔭 I’m currently learning Rust 🦀, first project is [linkwarden-aitiquette](https://github.com/bigbrozer/linkwarden-aitiquette).
+- 🔭 I’m currently learning Rust 🦀, first project is [linkwarden-aitiquette](https://github.com/bigbrozer/linkwarden-aitiquette). I plan to update it to [Karakeep](https://github.com/karakeep-app/karakeep) to provide a RAG for tagging.
 - 🕹 Don't know what to do ? Play [Bugs Out](https://bigbrozer.itch.io/bugs-out) ([➔ Sources](https://github.com/bigbrozer/BugsOut-GameOff2021)).
-
-<div align="center" >
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=bigbrozer&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=bigbrozer&theme=buefy" />
-    <img alt="github profile contributions chart" src="https://streak-stats.demolab.com/?user=bigbrozer&theme=buefy" />
-  </picture>
-</div>
