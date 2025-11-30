@@ -35,9 +35,3 @@
   </a>
 </p>
 -->
-
-### 📰 News
-
-- 👉 Want to discover [awesome stuffs](https://bigbrozer.github.io/awesomeness/) ?
-- 🔭 I’m currently learning Rust 🦀, first project is [linkwarden-aitiquette](https://github.com/bigbrozer/linkwarden-aitiquette). I plan to update it to [Karakeep](https://github.com/karakeep-app/karakeep) to provide a RAG for tagging.
-- 🕹 Don't know what to do ? Play [Bugs Out](https://bigbrozer.itch.io/bugs-out) ([➔ Sources](https://github.com/bigbrozer/BugsOut-GameOff2021)).
