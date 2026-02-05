@@ -8,12 +8,27 @@
 
 ### 🔥 Spotlight
 
+---
+
 <p align="center">
   <a href="https://itch.io/embed-upload/4859397?color=000000">
     <img width="400px" height="120px" align="center" src="https://raw.githubusercontent.com/bigbrozer/BugsOut-GameOff2021/main/.readme/itch_widget.png" />
   </a>
 </p>
 
+### 📊 Profile stats
+
+---
+
+<div align="center" >
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/bigbrozer/bigbrozer/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bigbrozer/bigbrozer/refs/heads/main/profile-3d-contrib/profile-season-animate.svg" />
+    <img alt="github profile chart" width="640px" src="https://raw.githubusercontent.com/bigbrozer/bigbrozer/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</div>
+
+<!--
 <div align="center" >
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=bigbrozer&theme=tokyonight" />
@@ -21,17 +36,4 @@
     <img alt="github profile contributions chart" src="https://streak-stats.demolab.com/?user=bigbrozer&theme=buefy" />
   </picture>
 </div>
-
-<!--
-<p align="center">
-  <a href="https://github.com/nventiveux/docker-ttrss">
-    <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nventiveux&repo=docker-ttrss&show_owner=false" />
-  </a>
-  <a href="https://github.com/la-chevre-grisette/infra">
-    <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=la-chevre-grisette&repo=infra&show_owner=true" />
-  </a>
-  <a href="https://github.com/bigbrozer/publii-luci-theme">
-    <img width="400px" height="120px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigbrozer&repo=publii-luci-theme&show_owner=false" />
-  </a>
-</p>
 -->
